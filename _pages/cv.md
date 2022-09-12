@@ -101,6 +101,7 @@ against a model virus and hence most suitable for use in a low-cost water purifi
 * ***Honors and Awards:***
   - Fall 2017: Graduate Alumni Fellowship Award, University of Rochester School of Medicine and Dentistry. Awarded to an incoming graduate student in the School of Medicine and Dentistry with promise for exceptional
 accomplishment in graduate study
+  - April 2017: Bioinformatics National Certification Examination. Issued by Department of Biotechnology, Government of India. Ranked 4th nationwide. Eligible for the DBT-BINC junior research fellowship for graduate study in Indian universities.
   - 2017: Prof. Kolaskar Gold Medal, Savitribai Phule Pune University, India. Awarded to the student ranked first in the M.Sc. Bioinformatics program
   - 2015 - 2017: G.N. Ramachandran Fellowship, Bioinformatics Centre, Savitribai Phule Pune University, India. Awarded to the top five students in the M.Sc. Bioinformatics program
 
