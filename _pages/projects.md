@@ -18,7 +18,7 @@ GitHub repository: [https://github.com/mgp13/scBONITA](https://github.com/mgp13/
 
 #### Citation: 
 
-**Palshikar, M. G.**, Palli, R., Tyrell, A., Maggirwar, S., Schifitto, G., Singh, M. V., & Thakar, J. (2022). _Executable models of immune signaling pathways in HIV-associated atherosclerosis_. npj Systems Biology and Applications, 8(1), 35. [doi:10.1038/s41540-022-00246](https://doi.org/10.1038/s41540-022-00246-5)
+**Palshikar, M. G.**, Palli, R., Tyrell, A., Maggirwar, S., Schifitto, G., Singh, M. V., & Thakar, J. (2022). _Executable models of immune signaling pathways in HIV-associated atherosclerosis_. npj Systems Biology and Applications, 8(1), 35. [PMID36131068](https://pubmed.ncbi.nlm.nih.gov/36131068/)
 
 [Download paper here](https://doi.org/10.1038/s41540-022-00246-5)
 
