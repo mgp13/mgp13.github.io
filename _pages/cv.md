@@ -16,7 +16,7 @@ redirect_from:
 <span style="color:#154360">Education</span>
 ======
 
-* **PhD, Biophysics, Structural and Computational Biology (Expected December 2022)**
+* **PhD, Biophysics, Structural and Computational Biology (Aug 2017 - Dec 2022)**
   - University of Rochester, NY
   - Advisor: Juilee Thakar, PhD
   - Dissertation: Executable models of signaling pathways built using omics data
