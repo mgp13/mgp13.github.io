@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a student in the Biophysics PhD program at the University of Rochester, working in the [Juilee Thakar Lab](https://www.urmc.rochester.edu/labs/thakar.aspx). My graduate work focused on algorithms which use multiomics data to model immune signaling networks in the contexts of health and disease. I successfully defended my thesis on December 1st, 2022.
+Starting late February 2023, I will be a postdoctoral research fellow in the [Ilya Korsunsky Lab](https://www.korsunskylab.org/) at Harvard Medical School and Brigham and Women’s Hospital. My research interests include developing computational methods which exploit multi-omics datasets to learn the mechanisms of inflammatory and autoimmune disease.  
 
-In general, I am interested in computational network modeling approaches to study inflammatory and autoimmune disease. I enjoy contributing to open-source software packages that will be widely used by both wet & dry lab biologists. I also enjoy mentoring undergraduate students and teaching bioinformatics at the graduate level.
+From 2017-2022, I worked on my PhD in Biophysics with [Dr Juilee Thakar](https://www.urmc.rochester.edu/labs/thakar.aspx) at the University of Rochester, NY. My graduate work focused on algorithms which use multiomics data to model immune signaling networks in the contexts of health and disease.
 
-In my spare time, I enjoy trying new recipes and hiking in the beautiful countryside of upstate New York.
+I enjoy designing and building open-source software for an audience of both wet & dry lab biologists. I also enjoy mentoring undergraduate students in a laboratory setting, and teaching bioinformatics at the graduate level.
+
+In my spare time, I enjoy trying new recipes, hiking in beautiful New England, playing the piano, and coding on personal software projects.
 
 # Links
 
