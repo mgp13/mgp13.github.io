@@ -11,12 +11,15 @@ redirect_from:
 
 **GitHub: [Mukta Palshikar](https://github.com/mgp13), [Thakar Lab](https://github.com/Thakar-Lab)**<br>
 **Publications: [Google Scholar](https://scholar.google.com/citations?hl=en&user=wKCY16IAAAAJ&view_op=list_works&sortby=pubdate), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=mukta+palshikar)**<br>
-**Current Address: [Biophysics, Structural & Computational Biology PhD Program](https://www.urmc.rochester.edu/education/graduate/phd/biophysics/faculty-students/students.aspx) at University of Rochester School of Medicine and Dentistry**
+**Current Address: [Division of Genetics]([https://www.urmc.rochester.edu/education/graduate/phd/biophysics/faculty-students/students.aspx](https://www.korsunskylab.org/team)) at Harvard Medical School**
 
-<span style="color:#154360">Education</span>
+<span style="color:#154360">Education and Training</span>
 ======
 
-* **PhD, Biophysics, Structural and Computational Biology (Aug 2017 - Dec 2022)**
+* **Post-doctoral research fellow (Feb 2023 - present)**
+  - Harvard Medical School; Brigham and Women's Hospital, Boston, MA
+  - Advisor: Ilya Korsunsky, PhD 
+* **PhD, Biophysics (Aug 2017 - Jan 2023)**
   - University of Rochester, NY
   - Advisor: Juilee Thakar, PhD
   - Dissertation: Executable models of signaling pathways built using omics data
@@ -34,6 +37,7 @@ redirect_from:
 
 Published
 ------
+* **Palshikar, M. G.**; Min, X.; Crystal, A.; Meng, J.; Hilchey, S.P.; Zand, M.S.; Thakar, J. Executable Network Models of Integrated Multiomics Data. Journal of Proteome Research. 2023.[10.1021/acs.jproteome.2c00730](https://doi.org/10.1021/acs.jproteome.2c00730)
 * **Palshikar, M. G.**, Palli, R., Tyrell, A., Maggirwar, S., Schifitto, G., Singh, M. V., & Thakar, J. (2022). Executable models of immune signaling pathways in HIV-associated atherosclerosis. npj Systems Biology and Applications, 8(1), 35. [PMID36131068](https://pubmed.ncbi.nlm.nih.gov/36131068/)
 * Hilchey, S. P.<span>&#42;</span>; **Palshikar, M. G.<span>&#42;</span>**; Mendelson, E. S.; Shen, S.; Rasam, S.; Emo, J. A.; Qu, J.; Thakar, J.; Zand, M. S., Cyclosporine A Modulates LSP1 Protein Levels in Human B Cells to Attenuate B Cell Migration at Low O<sub>2</sub> Levels. Life (Basel) 2022, 12 (8). *<span>&#42;</span>Co-first authors* [PMC9410508](https://pubmed.ncbi.nlm.nih.gov/36013463/)
 * **Palshikar, M. G.**; Hilchey, S. P.; Zand, M. S.; Thakar, J., WikiNetworks: translating manually created biological pathways for topological analysis. Bioinformatics 2022, 38 (3), 869-871. [PMID:34636843](https://pubmed.ncbi.nlm.nih.gov/34636843/)
@@ -42,9 +46,8 @@ Published
 
 In preparation
 ------
-* ***Palshikar, M. G.***; Min, X.; Crystal, A.; Meng, J.; Hilchey, S. P.; Zand, M.; Thakar, J., Executable network models of integrated multi-omics data. In preparation 2022.
-* Kassis, G.<span>&#42;</span>; ***Palshikar, M. G.<span>&#42;</span>***; Thakar, J., Modeling disease-specific B cell phenotypes using executable network models. In preparation 2022. *&ast;Contributed equally*
-* Benoodt, L; ***Palshikar, M. G.***; Palli, R.; Thakar, J., Mining and application of functionally related gene-set networks using single-cell RNAseq. In preparation 2022.
+* Kassis, G.<span>&#42;</span>; ***Palshikar, M. G.<span>&#42;</span>***; Thakar, J., Modeling disease-specific B cell phenotypes using executable network models. In preparation 2023. *&ast;Contributed equally*
+* Benoodt, L; ***Palshikar, M. G.***; Palli, R.; Thakar, J., Mining and application of functionally related gene-set networks using single-cell RNAseq. In preparation 2023.
 
 Conference Presentations
 ------
@@ -60,11 +63,7 @@ Conference Presentations
   University of Rochester Medical Center.
   - Taught a module on unsupervised machine learning methods with applications to the analysis of high-throughput biological
   data. Conducted workshops on applications of these methods in R.
-* ***Workshop Teaching Assistant (Fall 2020), University of Rochester:***
-  - Foundations in Modern Biology - 1. Required 400-level survey course for all incoming graduate students at University of Rochester
-  Medical Center
-  - Responsible for designing and conducting weekly group workshops.
-* ***Teaching Assistant (Fall 2018), University of Rochester:***
+* ***Workshop Teaching Assistant (Fall 2020) and Teaching Assistant (Fall 2018), University of Rochester:***
   - Foundations in Modern Biology - 1. Required 400-levelsurvey course for all incoming graduate students at University of Rochester
   Medical Center
   - Responsible for office hours, designing and conducting weekly group workshops, and grading of exams and assignments
@@ -82,7 +81,7 @@ Conference Presentations
   - Advisors: Kamlesh Jangid, PhD & Yogesh Shouche, PhD
   - Project Description: Confirmed the presence of virulence-associated luxRI homologs in 27 environmental isolates of Aeromonas bacteria
 using PCR and a biosensor assay
-* ***Efficacy Testing of Disinfectants on MS2 Phage at Different Concentrations and Contact Times (Summer 2013)***
+* ***Efficacy Testing of Disinfectants on MS2 Phage (Summer 2013)***
   - Tata Research Design and Development Centre (Process Engineering Lab) Pune, India
   - Advisors: Chetan Malhotra, PhD & Rajshree Patil, PhD
   - Project Description: Determined the minimum exposure times and concentrations at which candidate disinfectants are most effective
