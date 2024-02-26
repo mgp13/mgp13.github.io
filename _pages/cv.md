@@ -11,14 +11,15 @@ redirect_from:
 
 **GitHub: [Mukta Palshikar](https://github.com/mgp13), [Thakar Lab](https://github.com/Thakar-Lab)**<br>
 **Publications: [Google Scholar](https://scholar.google.com/citations?hl=en&user=wKCY16IAAAAJ&view_op=list_works&sortby=pubdate), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=mukta+palshikar)**<br>
-**Current Address: [Division of Genetics]([https://www.urmc.rochester.edu/education/graduate/phd/biophysics/faculty-students/students.aspx](https://www.korsunskylab.org/team)) at Harvard Medical School**
+**Current Address: [Division of Genetics](https://www.korsunskylab.org/team)) at Harvard Medical School**
 
 <span style="color:#154360">Education and Training</span>
 ======
 
 * **Post-doctoral research fellow (Feb 2023 - present)**
   - Harvard Medical School; Brigham and Women's Hospital, Boston, MA
-  - Advisor: Ilya Korsunsky, PhD 
+  - Advisor: Ilya Korsunsky, PhD
+  - Research focus: Spatial omics analysis and methods development to characterize cellular interactions in colorectal cancer and in interstitial lung disease. 
 * **PhD, Biophysics (Aug 2017 - Jan 2023)**
   - University of Rochester, NY
   - Advisor: Juilee Thakar, PhD
@@ -44,9 +45,12 @@ Published
 * Hilchey, S. P.; **Palshikar, M. G.**; Emo, J. A.; Li, D.; Garigen, J.; Wang, J.; Mendelson, E. S.; Cipolla, V.; Thakar, J.; Zand, M. S., Cyclosporine A Directly Affects Human and Mouse B cell Migration in vitro by Disrupting a HIF1α- Dependent, O<sub>2</sub> Sensing, Molecular Switch. BMC Immunology 2020, 21 (1), 1-18. [PMC7079363](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7079363/)
 * Palli, R.; **Palshikar, M. G.**; Thakar, J., Executable pathway analysis using ensemble discrete-state modeling for large-scale data. PLoS Computational Biology 2019, 15 (9), e1007317. [PMC6743792](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6743792/)
 
+In press
+------
+* Kassis, G.<span>&#42;</span>; ***Palshikar, M. G.<span>&#42;</span>***; Thakar, J., Modeling disease-specific B cell phenotypes using executable network models. In preparation 2024. *&ast;Contributed equally*
+
 In preparation
 ------
-* Kassis, G.<span>&#42;</span>; ***Palshikar, M. G.<span>&#42;</span>***; Thakar, J., Modeling disease-specific B cell phenotypes using executable network models. In preparation 2023. *&ast;Contributed equally*
 * Benoodt, L; ***Palshikar, M. G.***; Palli, R.; Thakar, J., Mining and application of functionally related gene-set networks using single-cell RNAseq. In preparation 2023.
 
 Conference Presentations
@@ -73,6 +77,16 @@ Conference Presentations
   - Responsible for helping students design methods/algorithms and teaching coding in Python and R
   - Guided students in preparation and presentation of research findings
 
+<span style="color:#154360">Honors and Awards</span>
+======
+
+  - Spring 2023: George V. Metzger Award, University of Rochester School of Medicine and Dentistry. Awarded to a Biophysics PhD student based on the quality of the dissertation and the supporting research. Please read more about George Metzger's life [here.](https://www.urmc.rochester.edu/biochemistry-biophysics/awards/metzger-award.aspx)
+  - Fall 2017: Graduate Alumni Fellowship Award, University of Rochester School of Medicine and Dentistry. Awarded to an incoming graduate student in the School of Medicine and Dentistry with promise for exceptional
+accomplishment in graduate study
+  - April 2017: Bioinformatics National Certification Examination. Issued by Department of Biotechnology, Government of India. Ranked 4th nationwide. Eligible for the DBT-BINC junior research fellowship for graduate study in Indian universities.
+  - 2017: Prof. Kolaskar Gold Medal, Savitribai Phule Pune University, India. Awarded to the student ranked first in the M.Sc. Bioinformatics program
+  - 2015 - 2017: G.N. Ramachandran Fellowship, Bioinformatics Centre, Savitribai Phule Pune University, India. Awarded to the top five students in the M.Sc. Bioinformatics program
+
 <span style="color:#154360">Undergraduate Research Experience</span>
 ======
 
@@ -87,22 +101,6 @@ using PCR and a biosensor assay
   - Project Description: Determined the minimum exposure times and concentrations at which candidate disinfectants are most effective
 against a model virus and hence most suitable for use in a low-cost water purification system under development in the lab
 
-<span style="color:#154360">Additional Experience and Achievements</span>
-======
-
-* ***In-House Talks and Poster Presentations at University of Rochester:***
-  - Executable models of pathways built using single-cell RNA-seq data. Seminar in Biophysics (University of Rochester Department of Biochemistry and Biophysics), given annually 2019-2022
-  - Interview Weekend Poster Session (Poster, February 8, 2020).
-  - Goergen Institute of Data Science Research Help From Goergen Students (Poster, January 24, 2020)
-  - Center for Aids Research World AIDS Day Scientific Symposium (Poster, December 3, 2019)
-  - Biophysics, Structural and Computational Biology Retreat (Poster, October 10, 2019)
-  - Undergraduate Research Fair (University of Rochester) (Poster, April 19 2019)
-* ***Honors and Awards:***
-  - Fall 2017: Graduate Alumni Fellowship Award, University of Rochester School of Medicine and Dentistry. Awarded to an incoming graduate student in the School of Medicine and Dentistry with promise for exceptional
-accomplishment in graduate study
-  - April 2017: Bioinformatics National Certification Examination. Issued by Department of Biotechnology, Government of India. Ranked 4th nationwide. Eligible for the DBT-BINC junior research fellowship for graduate study in Indian universities.
-  - 2017: Prof. Kolaskar Gold Medal, Savitribai Phule Pune University, India. Awarded to the student ranked first in the M.Sc. Bioinformatics program
-  - 2015 - 2017: G.N. Ramachandran Fellowship, Bioinformatics Centre, Savitribai Phule Pune University, India. Awarded to the top five students in the M.Sc. Bioinformatics program
 
 <span style="color:#154360">Technical Skills</span>
 ======
