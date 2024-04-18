@@ -18,8 +18,8 @@ In my spare time, I enjoy cooking, hiking, listening to and playing classical mu
 
 # Links
 
-* Projects that I worked on in grad school: [https://mgp13.github.io/projects/](https://mgp13.github.io/projects/)
+* Projects that I worked on in grad school: [https://muktapalshikar.github.io/projects/](https://muktapalshikar.github.io/projects/)
 
-* Software: [https://mgp13.github.io/software/](https://mgp13.github.io/software/)
+* Software: [https://muktapalshikar.github.io/software/](https://muktapalshikar.github.io/software/)
 
-* My CV: [https://mgp13.github.io/cv/](https://mgp13.github.io/cv/)
+* My CV: [https://muktapalshikar.github.io/cv/](https://muktapalshikar.github.io/cv/)
