@@ -7,7 +7,7 @@ author_profile: true
 
 ## scBONITA: single-cell Boolean Omics Network Invariant Time Analysis
 
-GitHub repository: [https://github.com/mgp13/scBONITA](https://github.com/mgp13/scBONITA)
+GitHub repository: [https://github.com/muktapalshikar/scBONITA](https://github.com/muktapalshikar/scBONITA)
 
 - uses scRNA-seq data to infer Boolean regulatory rules for topologically characterized networks
 - prioritizes genes based on their impact on signaling
@@ -27,7 +27,7 @@ Atherosclerosis (AS)-associated cardiovascular disease is an important cause of 
 
 ## WikiNetworks: Process pathways from the WikiPathways database into machine-readable network representations
 
-GitHub repository: [https://github.com/mgp13/WikiNetworks](https://github.com/mgp13/WikiNetworks)
+GitHub repository: [https://github.com/muktapalshikar/WikiNetworks](https://github.com/muktapalshikar/WikiNetworks)
 
 #### Citation:
 
