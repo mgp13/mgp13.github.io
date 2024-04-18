@@ -11,9 +11,9 @@ title                    : "Mukta Palshikar"
 title_separator          : "-"
 name                     : &name "Mukta Palshikar"
 description              : &description "Postdoctoral fellow in the Korsunsky Lab at Harvard Medical School"
-url                      : https://mgp13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://muktapalshikar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mgp13/mgp13.github.io"
+repository               : "muktapalshikar/muktapalshikar.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mgp13"
+  github           : "muktapalshikar"
   google_plus      :
   keybase          :
   instagram        :
