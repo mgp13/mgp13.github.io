@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**GitHub: [Mukta Palshikar](https://github.com/mgp13), [Thakar Lab](https://github.com/Thakar-Lab)**<br>
+**GitHub: [Mukta Palshikar](https://github.com/muktapalshikar), [Thakar Lab](https://github.com/Thakar-Lab)**<br>
 **Publications: [Google Scholar](https://scholar.google.com/citations?hl=en&user=wKCY16IAAAAJ&view_op=list_works&sortby=pubdate), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=mukta+palshikar)**<br>
 **Current Address: [Division of Genetics](https://www.korsunskylab.org/team)) at Harvard Medical School**
 
